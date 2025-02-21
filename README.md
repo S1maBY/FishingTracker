@@ -1,4 +1,4 @@
-Скачать/Download:
+Скачать/Download:https://github.com/S1maBY/FishingTracker/releases
 
 RUS:
 Цены на рыбу пока что установленые рандомно. 
